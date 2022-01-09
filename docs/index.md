@@ -1,8 +1,4 @@
-# Hello VitePress on GitPage
+# 博幼基金會教學處 GithubPage
+博幼基金會是成立於2002年的社會福利基金會，我們的願景是教育脫貧，為弱勢家庭提供免費的課後輔導。
 
-
-```js{1,3}
-console.log("Hello VitePress")
-
-console.log("on GitPAGE~")
-```
+## 關於這裡
