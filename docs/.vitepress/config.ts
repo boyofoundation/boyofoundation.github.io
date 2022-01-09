@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
-    title: 'GitPage Title',
-    base: "/VitePressTemplete/",
+    title: 'BOYO GithubPages',
+    base: "/",
     markdown: {
         lineNumbers: true
     },
